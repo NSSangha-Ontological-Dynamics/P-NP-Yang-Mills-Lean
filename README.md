@@ -4,6 +4,7 @@ This repository contains the public Lean 4 interface declarations, type signatur
 
 This library has been updated with the full Lean 4 no sorry code as well as the Max Cut Solver for deterministic polynomial time algorithms.
 
+
 ## Scope & Intellectual Property Notice
 * **Public Specifications:** Includes top-level theorem declarations, continuous field relaxation type structures, topological winding bounds (beta = 2055.39), and dark sector mass gap interface signatures.
 
